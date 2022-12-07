@@ -1,0 +1,53 @@
+body {
+
+background-color: #ffffff;
+  
+}
+
+.w3-card-4, .w3-hover-shadow:hover {
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.w3-center {
+    text-align: center!important;
+}
+
+.w3-small {
+    font-size: 20px!important;
+}
+
+label {
+
+position: relative;
+  bottom: -100px;
+  
+}
+
+.w3-card-4  {
+
+  height:  700px;
+  
+}
+
+.more {
+
+top: 700px;
+
+font-size: 30px;
+  
+}
+
+#box1 {
+
+
+  
+border-width: 5px;
+
+height: 50px;
+width: 500px;
+
+text-align: center;
+position: relative;
+  left: 170px;
+  top: 10px;
+}
