@@ -35,13 +35,14 @@ top: 700px;
 
 font-size: 30px;
   
+  
 }
 
 #box1 {
 
 
   
-border-width: 5px;
+
 
 height: 50px;
 width: 500px;
@@ -50,4 +51,52 @@ text-align: center;
 position: relative;
   left: 170px;
   top: 10px;
+  
+}
+
+#kms {
+
+
+  position: relative;
+  top: 90px;
+  
+  
+}
+
+button {
+
+box-shadow: 0px 0px 17px 0px #c4cec0;
+	background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#050405;
+	font-family:Georgia;
+	font-size:13px;
+	font-weight:bold;
+	padding:7px 16px;
+	text-decoration:none;
+	text-shadow:0px 0px 50px #ffffff;
+  
+}
+
+
+div { position: relative; }
+
+#btna {
+
+
+position: relative;
+top: 200px;
+
+height: 50px;
+
+  font-size: 50px;
+}
+
+bta {
+
+font-size: 50px;
+  
 }
